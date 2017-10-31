@@ -1,1 +1,2 @@
-# homework-1
+# basic-portfolio
+homework week 1
