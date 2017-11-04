@@ -265,3 +265,60 @@ input [type=submit] {
 	padding-bottom:60px;
 	
 }
+
+@media screen and (max-width: 980px) {
+	.main-container {
+	padding
+	}
+
+	.container{
+	padding: 0 20px;
+	max-width: 764px%;}
+
+	.main-section{
+		max-width: 420px;
+}
+	.work{
+		width:100%;
+	}
+	#image{
+		width:100%;
+		margin-bottom:20px;
+	}
+ }
+@media screen and (max-width: 760px){
+	.main-section{
+		max-width: 100%;
+	}
+	.sidebar{
+		max-width: 100%;
+		margin-bottom: 40px;
+	}
+	.work{
+		width: 50%;
+		margin-bottom:10px;
+	}
+}
+
+@media screen and (max-width: 640px){
+	#masthead{
+		position: static;
+		margin-bottom:20px;
+	}
+
+	header.container {
+		padding:0;
+	}
+	#main-container {
+		padding-top:0;
+	}
+	#logo, .work{
+		width:100%;
+	}
+	nav {
+		text-align: center;
+		width: 100%;
+		margin: 15px;
+	}
+}
+
